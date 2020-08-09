@@ -33,6 +33,8 @@ On your right hand side will be your components that will be available to bring 
 6. Connect your power and ground pins on your servo to your power and ground lines respectively
 7. Connect your Signal pin to pin 3 on your Arduino
 
+ ![finalPic](/finalPic.JPG)
+
 ## Writing the Code
 For the sake of time, you're just going to copy the code into your Arduino.
 
@@ -79,6 +81,10 @@ void loop(){
   
 }
 ```
+
+## And that's about it!
+
+Thanks for joining us today guys. This is a really stripped down and reduce version of the kind of tutorials we do at the robotics clubs. This semester we'll be doing bigger projects online, and when things return to normal you can expect to get hands on with this tech. 
 
 
 
