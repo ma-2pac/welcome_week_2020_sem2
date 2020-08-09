@@ -36,7 +36,7 @@ On your right hand side will be your components that will be available to bring 
 ## Writing the Code
 For the sake of time, you're just going to copy the code into your Arduino.
 
-```arduino
+```c++
 //Sketch created by Akshay Joseph
 #include<Servo.h>
 #define echoPin 4
