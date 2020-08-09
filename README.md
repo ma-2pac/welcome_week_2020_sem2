@@ -1,3 +1,3 @@
-# welcome_week_2020_sem2
+# USRC Welcome Week Challenge 
 
-Hellow world
+## Hello world
