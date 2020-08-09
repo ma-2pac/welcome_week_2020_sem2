@@ -10,7 +10,7 @@ You're going to need to have the following things ready before you can build thi
 
 Once your account is set up, you can get started.
 
-##Bringing Up The Circuit Builder
+## Bringing Up The Circuit Builder
 
 1. Go the **Circuit** tab on the left hand side and click *Create a new circuit*
 
@@ -23,7 +23,7 @@ On your right hand side will be your components that will be available to bring 
 - Servo
 - Ultrasonic Sensor HC-SR04
 
-##Setting up the Circuit
+## Setting up the Circuit
 
 1. Attach your GND line on your bread board your GND on your Arduino. 
 2. Attach your Power line on your breadboard to 5V on your Arduino
@@ -33,9 +33,10 @@ On your right hand side will be your components that will be available to bring 
 6. Connect your power and ground pins on your servo to your power and ground lines respectively
 7. Connect your Signal pin to pin 3 on your Arduino
 
-##Writing the Code
+## Writing the Code
 For the sake of time, you're just going to copy the code into your Arduino.
 
+'''
 //Sketch created by Akshay Joseph
 #include<Servo.h>
 #define echoPin 4
@@ -77,6 +78,7 @@ void loop(){
   delay(200);
   
 }
+'''
 
 
 
