@@ -1,4 +1,4 @@
-# USRC Welcome Week Challenge - Pixel Chaser
+# USRC Welcome Week Challenge - Touchless Hand Washing Timer
 
 ## Getting started
 
