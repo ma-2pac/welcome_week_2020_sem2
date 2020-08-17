@@ -29,6 +29,7 @@ On your right hand side will be your components that will be available to bring 
 2. Attach your Power line on your breadboard to 5V on your Arduino
 3. On your ultrasonic sensor, connect VCC to your power line and GND to ground.
 4. Then connect TRIG to pin 5 on your Arduino
+ - If you can't see a TRIG pin, you've probably got the 3 pin ultrasonic sensor rather than the 4 pin! Click 'Components -> All' then search for Ultrasonic Distance Sensor and pick the 4 pin version.
 5. Connect ECHO to pin 4 on your Arduino
 6. Connect your power and ground pins on your servo to your power and ground lines respectively
 7. Connect your Signal pin to pin 3 on your Arduino
